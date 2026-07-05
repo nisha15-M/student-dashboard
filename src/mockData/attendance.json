@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "present": 86,
+    "absent": 7,
+    "late": 5,
+    "excused": 2
+  },
+  "records": [
+    { "date": "2026-07-01", "day": "Wednesday", "status": "Present" },
+    { "date": "2026-06-30", "day": "Tuesday", "status": "Present" },
+    { "date": "2026-06-29", "day": "Monday", "status": "Late" },
+    { "date": "2026-06-26", "day": "Friday", "status": "Present" },
+    { "date": "2026-06-25", "day": "Thursday", "status": "Absent" },
+    { "date": "2026-06-24", "day": "Wednesday", "status": "Present" },
+    { "date": "2026-06-23", "day": "Tuesday", "status": "Excused" },
+    { "date": "2026-06-22", "day": "Monday", "status": "Present" }
+  ]
+}

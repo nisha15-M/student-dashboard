@@ -1,0 +1,56 @@
+[
+  {
+    "id": "STU-1001",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.edu",
+    "grade": "10th Grade",
+    "section": "A",
+    "gpa": 9.1,
+    "avatarColor": "#4338CA"
+  },
+  {
+    "id": "STU-1002",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.edu",
+    "grade": "10th Grade",
+    "section": "B",
+    "gpa": 8.4,
+    "avatarColor": "#0D9488"
+  },
+  {
+    "id": "STU-1003",
+    "name": "Kavya Iyer",
+    "email": "kavya.iyer@example.edu",
+    "grade": "11th Grade",
+    "section": "A",
+    "gpa": 9.6,
+    "avatarColor": "#D97706"
+  },
+  {
+    "id": "STU-1004",
+    "name": "Sameer Khan",
+    "email": "sameer.khan@example.edu",
+    "grade": "11th Grade",
+    "section": "C",
+    "gpa": 7.8,
+    "avatarColor": "#DB2777"
+  },
+  {
+    "id": "STU-1005",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.edu",
+    "grade": "9th Grade",
+    "section": "A",
+    "gpa": 8.9,
+    "avatarColor": "#4338CA"
+  },
+  {
+    "id": "STU-1006",
+    "name": "Arjun Verma",
+    "email": "arjun.verma@example.edu",
+    "grade": "12th Grade",
+    "section": "B",
+    "gpa": 9.3,
+    "avatarColor": "#0D9488"
+  }
+]

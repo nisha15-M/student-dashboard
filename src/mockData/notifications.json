@@ -1,0 +1,42 @@
+[
+  {
+    "id": "NTF-01",
+    "type": "grade",
+    "title": "New grade posted",
+    "message": "Your Algebra II midterm result has been posted.",
+    "time": "2 hours ago",
+    "read": false
+  },
+  {
+    "id": "NTF-02",
+    "type": "attendance",
+    "title": "Attendance reminder",
+    "message": "You were marked late on June 29. Contact the office if this is incorrect.",
+    "time": "1 day ago",
+    "read": false
+  },
+  {
+    "id": "NTF-03",
+    "type": "announcement",
+    "title": "Sports day schedule released",
+    "message": "The annual sports day timetable has been published on the notice board.",
+    "time": "2 days ago",
+    "read": true
+  },
+  {
+    "id": "NTF-04",
+    "type": "course",
+    "title": "Assignment due soon",
+    "message": "World History essay is due this Friday at 5:00 PM.",
+    "time": "3 days ago",
+    "read": true
+  },
+  {
+    "id": "NTF-05",
+    "type": "system",
+    "title": "Profile update required",
+    "message": "Please confirm your guardian's contact details for this term.",
+    "time": "5 days ago",
+    "read": true
+  }
+]

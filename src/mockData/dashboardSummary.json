@@ -1,0 +1,12 @@
+{
+  "totalStudents": 486,
+  "totalCourses": 24,
+  "attendanceRate": 92,
+  "unreadNotifications": 2,
+  "recentActivity": [
+    { "id": "ACT-1", "text": "Ananya Rao submitted the Algebra II assignment", "time": "10 min ago" },
+    { "id": "ACT-2", "text": "New course \"Data Structures\" added to catalog", "time": "1 hour ago" },
+    { "id": "ACT-3", "text": "Attendance report generated for Grade 10 - Section A", "time": "3 hours ago" },
+    { "id": "ACT-4", "text": "Kavya Iyer's profile updated by admin", "time": "Yesterday" }
+  ]
+}

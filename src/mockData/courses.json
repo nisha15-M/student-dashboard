@@ -1,0 +1,47 @@
+[
+  {
+    "id": "CRS-201",
+    "name": "Algebra II",
+    "instructor": "Mr. David Fernandes",
+    "credits": 4,
+    "schedule": "Mon / Wed / Fri · 9:00 AM",
+    "enrolled": 32,
+    "progress": 68
+  },
+  {
+    "id": "CRS-202",
+    "name": "World History",
+    "instructor": "Ms. Lakshmi Menon",
+    "credits": 3,
+    "schedule": "Tue / Thu · 10:30 AM",
+    "enrolled": 28,
+    "progress": 54
+  },
+  {
+    "id": "CRS-203",
+    "name": "Introduction to Biology",
+    "instructor": "Dr. Neha Kapoor",
+    "credits": 4,
+    "schedule": "Mon / Wed / Fri · 11:15 AM",
+    "enrolled": 30,
+    "progress": 72
+  },
+  {
+    "id": "CRS-204",
+    "name": "Computer Science Fundamentals",
+    "instructor": "Mr. Aditya Ghosh",
+    "credits": 4,
+    "schedule": "Tue / Thu · 1:00 PM",
+    "enrolled": 26,
+    "progress": 45
+  },
+  {
+    "id": "CRS-205",
+    "name": "English Literature",
+    "instructor": "Ms. Fatima Sheikh",
+    "credits": 3,
+    "schedule": "Mon / Wed · 2:30 PM",
+    "enrolled": 34,
+    "progress": 80
+  }
+]
