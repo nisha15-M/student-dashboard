@@ -121,14 +121,7 @@ export default function Attendance() {
           </div>
 
           {/* Bar Chart + Pie Chart side by side */}
-          <div
-            style={{
-              display: "grid",
-              gridTemplateColumns: "1fr 1fr",
-              gap: "20px",
-            }}
-            className="chart-row"
-          >
+          <div className="chart-row">
             <section className="card chart-card">
               <h2 style={{ marginBottom: "20px" }}>
                 📊 Attendance Overview
